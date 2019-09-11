@@ -14,9 +14,13 @@
 ### Microsoft notebook
 1，登录 `https://notebooks.azure.com`，登录你的微软账号。
 2，新建项目，Project，
+
 <img src="https://docs.microsoft.com/en-us/azure/notebooks/media/quickstarts/upload-github-repo-command.png">
+
 3，填入Github地址，导入整个项目。
+
 <img src="https://docs.microsoft.com/en-us/azure/notebooks/media/quickstarts/upload-github-repo-popup.png">
+
 4，点入相应的文件，运行run即可
 
 ### 国内用户
